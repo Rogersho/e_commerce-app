@@ -1,0 +1,5 @@
+[warning] Unused import: 'package:flutter/material.dart' (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\core\router\router.dart:16:8)
+[info] Use 'const' for final variables initialized to a constant value (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\core\router\router.dart:104:7)
+[info] Use 'const' for final variables initialized to a constant value (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\core\router\router.dart:105:7)
+[error] Undefined name 'productRepositoryProvider' (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\features\product\presentation\widgets\rating_widget.dart:175:25)
+[error] Undefined name 'productRepositoryProvider' (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\features\product\presentation\widgets\rating_widget.dart:200:32)

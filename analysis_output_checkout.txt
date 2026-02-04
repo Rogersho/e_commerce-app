@@ -1,0 +1,2 @@
+[info] 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\features\checkout\presentation\pages\checkout_screen.dart:184:25)
+[info] 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\features\checkout\presentation\pages\checkout_screen.dart:185:25)

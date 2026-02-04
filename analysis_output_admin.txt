@@ -1,0 +1,4 @@
+[warning] Unused import: 'dart:io' (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\features\admin\presentation\pages\admin_dashboard.dart:1:8)
+[info] Statements in an if should be enclosed in a block (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\features\admin\presentation\pages\admin_dashboard.dart:470:11)
+[info] Statements in an if should be enclosed in a block (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\features\admin\presentation\pages\admin_dashboard.dart:472:11)
+[info] Statements in an if should be enclosed in a block (C:\Users\Hodali\Documents\flutter\ecommerce_poco\lib\features\admin\presentation\pages\admin_dashboard.dart:512:37)

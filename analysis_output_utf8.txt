@@ -1,0 +1,15 @@
+﻿Analyzing ecommerce_poco...                                     
+
+warning - Unused import: 'package:flutter/material.dart' - lib\core\router\router.dart:3:8 - unused_import
+warning - Unused import: 'package:flutter_riverpod/flutter_riverpod.dart' - lib\core\utils\type_defs.dart:1:8 - unused_import
+   info - Statements in an if should be enclosed in a block - lib\features\cart\presentation\controllers\cart_controller.dart:41:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\cart\presentation\controllers\cart_controller.dart:47:11 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\cart\presentation\pages\cart_screen.dart:122:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\product\presentation\pages\product_details_screen.dart:100:35 - deprecated_member_use
+   info - 'surfaceVariant' is deprecated and shouldn't be used. Use surfaceContainerHighest instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\product\presentation\pages\product_list_screen.dart:77:58 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\main.dart:35:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\main.dart:36:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\main.dart:37:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\main.dart:38:20 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\main.dart:40:25 - prefer_const_literals_to_create_immutables
+
